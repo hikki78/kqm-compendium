@@ -38,7 +38,7 @@ characters:
     star: 4
     constellation: 4+
     weapon:
-      name: Amos' Bow
+      name: Aqua Simulacra
       refinement: 1
     artifacts:
       - Blizzard Strayer
@@ -54,7 +54,7 @@ characters:
     star: 5
     constellation: 1
     weapon:
-      name: Favonious Lance
+      name: Favonius Lance
       refinement: 3
     artifacts:
       - Noblesse Oblige
